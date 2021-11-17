@@ -1,0 +1,10 @@
+
+
+a:link { color: aqua;}
+a:visited { color: cadetblue;}
+
+h1{ color: crimson; background-color: darkgrey;}
+
+.camello{ margin-top: 100px;}
+
+a{ display:flex; justify-content:space-between;}
